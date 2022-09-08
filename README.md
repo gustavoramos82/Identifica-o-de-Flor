@@ -18,3 +18,10 @@ Podemos ver que os modelos que teve a melhores perfomace foi o SVM e o Ridge Cla
 
 ## Fine Tunning
 
+Aplicando o fine tunning tivemos o seguinte resultado:
+
+![image](https://user-images.githubusercontent.com/39843884/189105202-75dc571d-e094-4a87-9e6a-01846d3db9a0.png)
+
+## Conclusão
+
+Podemos ver que o fine tunning teve um bom resultado, mas não melhor que os dois apontados na extração de caracteristicas, observa-se a limitação deste projeto por parte de hardware e não pode se ver como teste outros modelos e verificar quanto aos cinco tipos, algo que pode ser testado no futuro.
